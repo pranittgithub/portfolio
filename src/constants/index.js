@@ -7,7 +7,7 @@ export const navLinks = [
   {
     id: 2,
     name: 'Our Plans',
-    href: '#Our Plans',
+    href: '#plans',
   },
   {
     id: 3,
