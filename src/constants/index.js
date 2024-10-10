@@ -11,7 +11,7 @@ export const navLinks = [
   },
   {
     id: 3,
-    name: 'Techtide Team',
+    name: 'Amplidev Team',
     href: '#work',
   },
   {

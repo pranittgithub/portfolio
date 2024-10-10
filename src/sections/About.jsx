@@ -7,7 +7,7 @@ const About = () => {
   const [hasCopied, setHasCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(' adrian@jsmastery.pro');
+    navigator.clipboard.writeText('amplidevv@gmail.com');
     setHasCopied(true);
 
     setTimeout(() => {
@@ -23,9 +23,9 @@ const About = () => {
             <img src="assets/grid1.png" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
 
             <div>
-              <p className="grid-headtext">Hi, Techtide solutions here</p>
+              <p className="grid-headtext">Hi, Amplidev solutions here</p>
               <p className="grid-subtext">
-              At TechTide Solutions, we specialize in crafting both frontend and backend dynamic, responsive websites. With 2 years of hands-on experience, our team delivers tailored web solutions to meet the unique needs of each client.
+              At Amplidev Solutions, we specialize in crafting both frontend and backend dynamic, responsive websites. With 2 years of hands-on experience, our team delivers tailored web solutions to meet the unique needs of each client.
               </p>
             </div>
           </div>
@@ -38,7 +38,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
-              At TechTide Solutions, our team specializes in a wide variety of languages, frameworks, and tools, enabling us to build robust, scalable applications.
+              At Amplidev Solutions, our team specializes in a wide variety of languages, frameworks, and tools, enabling us to build robust, scalable applications.
               </p>
             </div>
           </div>
@@ -62,7 +62,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">We are very flexible with time zone communications & locations</p>
               <p className="grid-subtext">We are based in Mumbai, India and open to remote work worldwide.</p>
-              <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+              {/* <Button name="Contact Me" isBeam containerClass="w-full mt-10" /> */}
             </div>
           </div>
         </div>
@@ -72,10 +72,9 @@ const About = () => {
             <img src="assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain" />
 
             <div>
-              <p className="grid-headtext">My Passion for Coding</p>
+              <p className="grid-headtext">Our Vision</p>
               <p className="grid-subtext">
-                I love solving problems and building things through code. Programming isn&apos;t just my
-                profession—it&apos;s my passion. I enjoy exploring new technologies, and enhancing my skills.
+                At Amplidev, we deliver innovative, tailored tech solutions to meet your business needs. From full-stack development to AI and cloud services, we prioritize quality, transparency, and client success. Our expert team is dedicated to helping businesses innovate, scale, and thrive in today&apos;s competitive landscape.
               </p>
             </div>
           </div>
@@ -93,7 +92,7 @@ const About = () => {
               <p className="grid-subtext text-center">Contact me</p>
               <div className="copy-container" onClick={handleCopy}>
                 <img src={hasCopied ? 'assets/tick.svg' : 'assets/copy.svg'} alt="copy" />
-                <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">techtide@solutions.pro</p>
+                <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">amplidevv@gmail.com</p>
               </div>
             </div>
           </div>
