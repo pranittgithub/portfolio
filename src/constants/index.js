@@ -188,7 +188,7 @@ export const workExperiences = [
     pos: 'CTO',
     duration: 'CHIEF TECHNOLOGY OFFICER',
     title:'Experienced web developer with over two years of expertise in frontend and backend development. I specialize in designing dynamic, responsive websites, blending creativity with technology to deliver user-friendly solutions. As part of a freelance team, I aim to create impactful digital experiences',
-    icon: '/assets/sahil.jpeg',
+    icon: '/assets/atharva.jpeg',
     animation: 'victory',
   },
   {
@@ -206,7 +206,7 @@ export const workExperiences = [
     pos: 'CCO',
     duration: 'CHIEF CREATIVE OFFICER',
     title:'Our CCO leads the creative direction, shaping innovative and visually captivating design solutions that align with client objectives and engage users. With a strong focus on brand identity, user experience, and design excellence, they inspire the team to deliver projects that are not only aesthetically compelling but also strategically impactful.',
-    icon: '/assets/sahil.jpeg',
+    icon: '/assets/pranit.jpg',
     animation: 'salute',
   },
 ];

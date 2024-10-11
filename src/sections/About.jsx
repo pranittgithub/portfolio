@@ -72,7 +72,7 @@ const About = () => {
             <img src="assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain" />
 
             <div>
-              <p className="grid-headtext">Our Vision</p>
+              <p className="grid-headtext">Why Choose Amplidev?</p>
               <p className="grid-subtext">
                 At Amplidev, we deliver innovative, tailored tech solutions to meet your business needs. From full-stack development to AI and cloud services, we prioritize quality, transparency, and client success. Our expert team is dedicated to helping businesses innovate, scale, and thrive in today&apos;s competitive landscape.
               </p>
