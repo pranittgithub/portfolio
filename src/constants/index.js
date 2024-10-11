@@ -26,32 +26,33 @@ export const clientReviews = [
     id: 1,
     name: 'Emily Johnson',
     position: 'Marketing Director at GreenLeaf',
+    img: 'assets/review1.png',
     review:
-      'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      "Working with Amplidev was a game-changer for our business. They developed a sleek, modern, and highly functional website for us that exceeded our expectations. The team was professional, responsive, and delivered on time, which is rare in the industry. Our online presence has never been stronger. Highly recommend!",
   },
   {
     id: 2,
-    name: 'Mark Rogers',
-    position: 'Founder of TechGear Shop',
-    img: 'assets/review2.png',
+    name: 'Anshika Thakur',
+    position: 'E-commerce Business Owner',
+    img: 'assets/pp.jpg',
     review:
-      'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      "Amplidev took our vision for an e-commerce store and turned it into reality with a custom-built dynamic website. The site is fast, user-friendly, and has all the features we needed to streamline our sales. The team provided excellent support, guiding us through every step. We’ve seen a significant boost in traffic and sales since launching the new site!",
   },
   {
     id: 3,
-    name: 'John Dohsas',
-    position: 'Project Manager at UrbanTech ',
-    img: 'assets/review3.png',
+    name: 'Rajesh Patil',
+    position: 'Freelance Photographer',
+    img: 'assets/pp.jpg',
     review:
-      'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+      "Amplidev designed my portfolio website, and I couldn’t be happier with the result. They understood my aesthetic preferences and created a visually stunning and responsive site that perfectly showcases my work. The process was smooth from start to finish, and the team made sure every detail was perfect. I’ve already received numerous compliments on the site!",
   },
   {
     id: 4,
-    name: 'Ether Smith',
-    position: 'CEO of BrightStar Enterprises',
-    img: 'assets/review4.png',
+    name: 'Suresh K.',
+    position: 'Small Business Owner',
+    img: 'assets/pp.jpg',
     review:
-      'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
+      "Choosing Amplidev was the best decision we made for our company’s online presence. They developed a highly professional and fully responsive static website that aligns perfectly with our brand. Their customer service was top-notch, and they made the entire process easy and stress-free. I highly recommend them to anyone in need of a reliable web development team."
   },
 ];
 
@@ -187,7 +188,7 @@ export const workExperiences = [
     pos: 'CTO',
     duration: 'CHIEF TECHNOLOGY OFFICER',
     title:'Experienced web developer with over two years of expertise in frontend and backend development. I specialize in designing dynamic, responsive websites, blending creativity with technology to deliver user-friendly solutions. As part of a freelance team, I aim to create impactful digital experiences',
-    icon: '/assets/atharva.jpeg',
+    icon: '/assets/ath.jpg',
     animation: 'victory',
   },
   {
