@@ -24,9 +24,9 @@ export const navLinks = [
 export const clientReviews = [
   {
     id: 1,
-    name: 'Emily Johnson',
-    position: 'Marketing Director at GreenLeaf',
-    img: 'assets/review1.png',
+    name: 'Pranav Mhatre',
+    position: 'Startup founder',
+    img: 'assets/pp.jpg',
     review:
       "Working with Amplidev was a game-changer for our business. They developed a sleek, modern, and highly functional website for us that exceeded our expectations. The team was professional, responsive, and delivered on time, which is rare in the industry. Our online presence has never been stronger. Highly recommend!",
   },
