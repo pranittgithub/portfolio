@@ -14,7 +14,7 @@ const Footer = () => {
         </a>
         </div>
         <div className="social-icon">
-        <a href="https://wa.me/qr/N6HDJOSAFJ6AP1 " target="_blank" rel="noopener noreferrer" className="social-icon">
+        <a href="https://api.whatsapp.com/send?phone=7900161060" target="_blank" rel="noopener noreferrer" className="social-icon">
           <img src="/assets/wp.svg" alt="twitter" className="w-1/2 h-1/2" />
         </a>
   
