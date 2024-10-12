@@ -62,7 +62,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">We are very flexible with time zone communications & locations</p>
               <p className="grid-subtext">We are based in Mumbai, India and open to remote work worldwide.</p>
-              {/* <Button name="Contact Me" isBeam containerClass="w-full mt-10" /> */}
+              {/* <Button name="Contact " isBeam containerClass="w-full mt-10" /> */}
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@ const About = () => {
             />
 
             <div className="space-y-2">
-              <p className="grid-subtext text-center">Contact me</p>
+              <p className="grid-subtext text-center">Contact Us</p>
               <div className="copy-container" onClick={handleCopy}>
                 <img src={hasCopied ? 'assets/tick.svg' : 'assets/copy.svg'} alt="copy" />
                 <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">amplidevv@gmail.com</p>
