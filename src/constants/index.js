@@ -12,7 +12,7 @@ export const navLinks = [
   {
     id: 3,
     name: 'Amplidev Team',
-    href: '#work',
+    href: '#team',
   },
   {
     id: 4,
@@ -193,7 +193,7 @@ export const workExperiences = [
   },
   {
     id: 2,
-    name: 'Sahil Shireskar',
+    name: 'Sahil Shirsekar',
     pos: 'CDO',
     duration: 'CHIEF DEVELOPMENT OFFICER',
     title:'Experienced Chief Development Officer (CDO) specializing in app development and technical strategy. Skilled in leading cross-functional teams to build innovative, user-centric digital solutions that drive business growth and technical excellence.',
