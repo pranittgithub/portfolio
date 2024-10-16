@@ -32,7 +32,7 @@ export const clientReviews = [
   },
   {
     id: 2,
-    name: 'Anshika Thakur',
+    name: 'Prita Sharma',
     position: 'E-commerce Business Owner',
     img: 'assets/pp.jpg',
     review:
